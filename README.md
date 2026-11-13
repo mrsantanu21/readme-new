@@ -4,12 +4,12 @@
      this block free of blank lines and keep the cards in a row on one line with no spaces
      between them. -->
 <div align="center">
-<a href="https://github.com/mrsantanu21"><img src="./cards/hero.svg" width="100%" alt="Santanu Dey. Computer Science student exploring AI, algorithms and software development." /></a><br>
-<img src="./cards/heatmap.svg" width="100%" alt="Santanu's contribution graph, in blue, refreshed daily" /><br>
-<img src="./cards/activity.svg" width="100%" alt="Contributions in the last 12 months, by month, with streak and busiest day" /><br>
-<img src="./cards/build.svg" width="33.333%" alt="BUILD: 3 projects" /><img src="./cards/learn.svg" width="33.333%" alt="LEARN: B.Tech CSE" /><img src="./cards/explore.svg" width="33.333%" alt="EXPLORE: 25 tools" /><br>
-<picture><source media="(prefers-color-scheme: dark)" srcset="./cards/title-building-dark.svg" /><img src="./cards/title-building-light.svg" width="100%" alt="What I'm building" /></picture><br>
-<a href="https://github.com/mrsantanu21/RailFlow"><img src="./cards/repo-railflow.svg" width="33.333%" alt="RailFlow" /></a><a href="https://github.com/mrsantanu21/Uwritten"><img src="./cards/repo-uwritten.svg" width="33.333%" alt="Uwritten" /></a><a href="https://github.com/mrsantanu21/TriasicBrowser"><img src="./cards/repo-triasicbrowser.svg" width="33.333%" alt="TriasicBrowser" /></a>
+<a href="https://github.com/mrsantanu21"><img src="./hero.svg" width="100%" alt="Santanu Dey. Computer Science student exploring AI, algorithms and software development." /></a><br>
+<img src="./heatmap.svg" width="100%" alt="Santanu's contribution graph, in blue, refreshed daily" /><br>
+<img src="./activity.svg" width="100%" alt="Contributions in the last 12 months, by month, with streak and busiest day" /><br>
+<img src="./build.svg" width="33.333%" alt="BUILD: 3 projects" /><img src="./learn.svg" width="33.333%" alt="LEARN: B.Tech CSE" /><img src="./explore.svg" width="33.333%" alt="EXPLORE: 25 tools" /><br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./title-building-dark.svg" /><img src="./title-building-light.svg" width="100%" alt="What I'm building" /></picture><br>
+<a href="https://github.com/mrsantanu21/RailFlow"><img src="./repo-railflow.svg" width="33.333%" alt="RailFlow" /></a><a href="https://github.com/mrsantanu21/Uwritten"><img src="./repo-uwritten.svg" width="33.333%" alt="Uwritten" /></a><a href="https://github.com/mrsantanu21/TriasicBrowser"><img src="./repo-triasicbrowser.svg" width="33.333%" alt="TriasicBrowser" /></a>
 </div>
 
 <p align="center">
